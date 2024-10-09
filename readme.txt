@@ -417,7 +417,7 @@ Fixing R button (DS Phat) guide https://www.mariokart64.com/cgi-bin/yabb2/YaBB.p
 
 puddings — 28/06/2022 18:28
 every mission now in square form
-https://cdn.discordapp.com/attachments/772160766400528405/991470095438192670/mission_ranked_final.png?ex=6707ac3b&is=67065abb&hm=82f5e4d07f348c917bfe6221b856e91a749338554af7972aba5376616f54ca8d& (needs to be archived)
+![https://cdn.discordapp.com/attachments/772160766400528405/991470095438192670/mission_ranked_final.png?ex=6707ac3b&is=67065abb&hm=82f5e4d07f348c917bfe6221b856e91a749338554af7972aba5376616f54ca8d&](https://github.com/Furdox/mkds-resources-list/blob/main/mission_ranked_final.png?raw=true)
 
 
 
@@ -504,8 +504,7 @@ https://www.speedrun.com/ctgp_nitro
 https://garhoogin.com/mkds/emblem/ and https://jtvjan.nl/tools/mkdsemblem.html
 (all kart bkts) https://docs.google.com/spreadsheets/d/1emLT4XmRwGpGV-MiEURX9PGb8L_YYmEQl5pdJ2x9gos/edit#gid=116057760
 https://w.atwiki.jp/wifistrat/sp/pages/59.html
-(wifi player rankings (I would be A-, minimum B+)) https://docs.google.com/spreadsheets/d/1dTlgR19SxckwxtRXHH54hCXxVny8WNp65HxoMimiFYQ
-
+(wifi player rankings (According to Quantum and myself, I would be A-, minimum B+, with a tiny chance of A (but I personally wouldn't say I'm A)) https://docs.google.com/spreadsheets/d/1dTlgR19SxckwxtRXHH54hCXxVny8WNp65HxoMimiFYQ
 
 =====TODO=====
 Archive Hyphen's checkpoint maps located at https://discord.com/channels/569870981213061120/651126218480943121/1170575500612214936 (there's also https://drive.google.com/file/d/12xz-djo8yjnGca_2B7Hw2U8gfXi4_ZeQ/view?usp=sharing that I haven't even looked at yet)
