@@ -484,7 +484,7 @@ how do you like THAT David
 I PRB'd on RAINBOW ROAD YOU IDIOT
 you have 1 minute, 37 seconds, and 179 milliseconds before the timer bug drrrroplllets hit the FUCKING EARTH
 now get out of my fucking sight before i PRB on you too 
-Image
+[Emblem Image]
 that took way too long to make
 both the emblem and the copypasta :sfracellato:
 i know there are some places i where replace the same word with different words but i think it sounds better like this 
@@ -508,5 +508,6 @@ https://w.atwiki.jp/wifistrat/sp/pages/59.html
 
 =====TODO=====
 Archive Hyphen's checkpoint maps located at https://discord.com/channels/569870981213061120/651126218480943121/1170575500612214936 (there's also https://drive.google.com/file/d/12xz-djo8yjnGca_2B7Hw2U8gfXi4_ZeQ/view?usp=sharing that I haven't even looked at yet)
-Make a simpler mkds wifi guide myself
+Make a simpler mkds wifi guide myself.
 make https://www.mariokart64.com/cgi-bin/yabb2/YaBB.pl?num=1298330533 / https://youtu.be/xFvVp3N14Ro?si=84euR5yyUp3KM67s myself
+JEB calendar description, though JEB info and rules are already listed above so it's not a massive priority.
